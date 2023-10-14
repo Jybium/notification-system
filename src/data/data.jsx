@@ -1,0 +1,42 @@
+export const data = [
+  {
+    id: 1,
+    name: "Mark Hebrew",
+    time: "1m ago",
+    reaction: "love your recent",
+    activity: "My first tournament today.",
+    read: false,
+  },
+  {
+    id: 2,
+    name: "Sofia Rose",
+    time: "5 days ago",
+    reaction: "commented on your recent post",
+    activity: "My first tournament today.",
+    read: false,
+  },
+  {
+    id: 3,
+    name: "Daniel schmedtmann",
+    time: "1 week ago",
+    reaction: "reacted to your recent",
+    activity: "My first tournament today.",
+    read: false,
+  },
+  {
+    id: 4,
+    name: "Ibrahim yahaya",
+    time: "1 month ago",
+    reaction: "love your recent",
+    activity: "My first tournament today.",
+    read: false,
+  },
+  {
+    id: 5,
+    name: "Ibrahim yahaya",
+    time: "2 month ago",
+    reaction: "love your recent",
+    activity: "My first tournament today.",
+    read: true,
+  },
+];
